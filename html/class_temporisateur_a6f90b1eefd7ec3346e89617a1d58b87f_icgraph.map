@@ -1,0 +1,19 @@
+<map id="Chrono" name="Chrono">
+<area shape="rect" id="node2" href="$class_ascenseur.html#aab41e38358bbfddcbfc9749cb178aeb1" title="Ascenseur::Monter" alt="" coords="127,5,259,32"/>
+<area shape="rect" id="node4" href="$class_planificateur.html#a3806e788c7800e473b1ee47be3d1d97b" title="Planificateur::Planifier" alt="" coords="577,233,724,260"/>
+<area shape="rect" id="node6" href="$class_ascenseur.html#a6477ae52118fbb546d4000b8b367e198" title="Ascenseur::Descendre" alt="" coords="116,107,271,133"/>
+<area shape="rect" id="node8" href="$class_lumiere.html#a96ca8e945ca312516239e77b46656f27" title="Lumiere::Allumer" alt="" coords="133,157,253,184"/>
+<area shape="rect" id="node10" href="$class_personne.html#aa1c3b3cc4e4771ddc0c5d78e0ab8506e" title="Personne::Marcher" alt="" coords="127,259,259,285"/>
+<area shape="rect" id="node15" href="$class_porte.html#a44db51b376ce047eb0bf20ab7260a9fb" title="Porte::Ouvrir" alt="" coords="146,335,241,361"/>
+<area shape="rect" id="node17" href="$class_porte.html#af13ff2e42a08bb85da906a1ad07a1608" title="Porte::Fermer" alt="" coords="142,436,245,463"/>
+<area shape="rect" id="node3" href="$class_immeuble.html#a9c2f13e6f904dae87aa23e2cea9da50e" title="Immeuble::MonterAscenseur" alt="" coords="330,5,518,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="772,233,823,260"/>
+<area shape="rect" id="node7" href="$class_immeuble.html#a31e9aa785622d88ab5dd51288221d109" title="Immeuble::DescendreAscenseur" alt="" coords="319,107,529,133"/>
+<area shape="rect" id="node9" href="$class_immeuble.html#a56f2e61e76cbf5060d3ee31906ca6601" title="Immeuble::Afficher" alt="" coords="359,157,489,184"/>
+<area shape="rect" id="node11" href="$class_personne.html#a5598e8b128a77667f5f1177066e9b1d0" title="Personne::AllerAscenseur" alt="" coords="337,208,511,235"/>
+<area shape="rect" id="node12" href="$class_personne.html#ac3ec9618aafe6dec23b1d35a10d7c93d" title="Personne::Partir" alt="" coords="366,259,482,285"/>
+<area shape="rect" id="node13" href="$class_personne.html#a37c808e6019271e430c67ebf67aee64b" title="Personne::Sortir" alt="" coords="366,309,482,336"/>
+<area shape="rect" id="node14" href="$class_personne.html#ae17b2818be66a1c9f3ccb6e00ce05b31" title="Personne::Entrer" alt="" coords="364,360,484,387"/>
+<area shape="rect" id="node16" href="$class_immeuble.html#a184ef978b9d5a89bbdfc233956ba87db" title="Immeuble::OuvrirPorte" alt="" coords="349,411,499,437"/>
+<area shape="rect" id="node18" href="$class_immeuble.html#a8c063eb77a59386bd6a80e50329b530f" title="Immeuble::FermerPorte" alt="" coords="345,461,503,488"/>
+</map>

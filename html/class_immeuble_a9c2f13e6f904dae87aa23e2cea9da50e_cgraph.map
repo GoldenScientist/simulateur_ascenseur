@@ -1,0 +1,4 @@
+<map id="MonterAscenseur" name="MonterAscenseur">
+<area shape="rect" id="node2" href="$class_ascenseur.html#aab41e38358bbfddcbfc9749cb178aeb1" title="Ascenseur::Monter" alt="" coords="177,5,309,32"/>
+<area shape="rect" id="node3" href="$class_temporisateur.html#a6f90b1eefd7ec3346e89617a1d58b87f" title="Temporisateur::Chrono" alt="" coords="357,5,511,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="planificateur.h" name="planificateur.h">
+<area shape="rect" id="node3" href="$immeuble_8h.html" title="immeuble.h" alt="" coords="454,80,543,107"/>
+<area shape="rect" id="node6" href="$temporisateur_8h.html" title="temporisateur.h" alt="" coords="349,229,461,256"/>
+<area shape="rect" id="node13" href="$_constante_8h.html" title="Constante.h" alt="" coords="759,304,851,331"/>
+<area shape="rect" id="node15" href="$personne_8h.html" title="personne.h" alt="" coords="357,155,443,181"/>
+<area shape="rect" id="node5" href="$ascenseur_8h.html" title="ascenseur.h" alt="" coords="555,155,648,181"/>
+<area shape="rect" id="node11" href="$cloche_8h.html" title="cloche.h" alt="" coords="17,304,87,331"/>
+<area shape="rect" id="node14" href="$porte_8h.html" title="porte.h" alt="" coords="467,155,530,181"/>
+<area shape="rect" id="node17" href="$lumiere_8h.html" title="lumiere.h" alt="" coords="723,155,797,181"/>
+</map>

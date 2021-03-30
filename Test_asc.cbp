@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Test_asc" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Test_asc" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../SDL-1.2.15/lib/SDL_image.lib" />
+					<Add library="../../../SDL-1.2.15/lib/SDL_ttf.lib" />
+					<Add library="../../../SDL-1.2.15/lib/SDL2_mixer.lib" />
+					<Add library="C:/Program Files/CodeBlocks/MinGW/lib/libfmodex.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Test_asc" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="E:/Program files/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="E:/Program files/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="Constante.h" />
+		<Unit filename="Fenetre.cpp" />
+		<Unit filename="Fenetre.h" />
+		<Unit filename="ascenseur.cpp" />
+		<Unit filename="ascenseur.h" />
+		<Unit filename="cb.bmp" />
+		<Unit filename="classe_A_B_C.h" />
+		<Unit filename="cloche.cpp" />
+		<Unit filename="cloche.h" />
+		<Unit filename="immeuble.cpp" />
+		<Unit filename="immeuble.h" />
+		<Unit filename="lumiere.cpp" />
+		<Unit filename="lumiere.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="personne.cpp" />
+		<Unit filename="personne.h" />
+		<Unit filename="planificateur.cpp" />
+		<Unit filename="planificateur.h" />
+		<Unit filename="porte.cpp" />
+		<Unit filename="porte.h" />
+		<Unit filename="temporisateur.cpp" />
+		<Unit filename="temporisateur.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

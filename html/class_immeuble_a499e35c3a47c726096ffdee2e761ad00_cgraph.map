@@ -1,0 +1,10 @@
+<map id="Afficher" name="Afficher">
+<area shape="rect" id="node2" href="$class_ascenseur.html#a06c95827910a475f76f0ed28acac0276" title="Ascenseur::Afficher" alt="" coords="149,5,283,32"/>
+<area shape="rect" id="node3" href="$class_personne.html#a06c95827910a475f76f0ed28acac0276" title="Personne::Afficher" alt="" coords="152,56,280,83"/>
+<area shape="rect" id="node4" href="$class_porte.html#a06c95827910a475f76f0ed28acac0276" title="Porte::Afficher" alt="" coords="164,107,268,133"/>
+<area shape="rect" id="node5" href="$class_lumiere.html#a96ca8e945ca312516239e77b46656f27" title="Lumiere::Allumer" alt="" coords="156,157,276,184"/>
+<area shape="rect" id="node7" href="$class_ascenseur.html#a8b3c043d4040ed9cf01a0b4f17b75b3b" title="Ascenseur::Origine" alt="" coords="149,208,283,235"/>
+<area shape="rect" id="node8" href="$class_temporisateur.html#ab2d8f750db63e0f7bac50159a24cb600" title="Temporisateur::AfficherTemps" alt="" coords="119,259,313,285"/>
+<area shape="rect" id="node6" href="$class_temporisateur.html#a6f90b1eefd7ec3346e89617a1d58b87f" title="Temporisateur::Chrono" alt="" coords="361,157,515,184"/>
+<area shape="rect" id="node9" href="$class_cloche.html#adeae34b9b91d67fa71f5b35717cc31d5" title="Cloche::Tic" alt="" coords="395,259,481,285"/>
+</map>

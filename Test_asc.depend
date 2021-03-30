@@ -1,0 +1,894 @@
+# depslib dependency file v1.0
+1421171960 source:e:\program files\programmation\sdl\test_asc\ascenseur.cpp
+	"ascenseur.h"
+
+1421171962 .h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421171962 
+
+1420990329 source:e:\program files\programmation\sdl\test_asc\ecran.cpp
+	<SDL/SDL_image.h>
+	"ecran.h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421171962 h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421171962 "
+
+1421183261 source:e:\program files\programmation\sdl\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421183262 teur.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376152838 e.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 e:\program files\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1326110988 g_minimal.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 e:\program files\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326110994 orm.h"
+
+1326111000 e:\program files\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\close_code.h
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 e:\program files\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\personne.cpp
+	"personne.h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421171960 source:e:\program files\programmation\sdl\test_asc\porte.cpp
+	"porte.h"
+
+1421183261 source:e:\program files\programmation\sdl\test_asc\temporisateur.cpp
+	"temporisateur.h"
+
+1421171982 e:\program files\programmation\sdl\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1325788834 e:\program files\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1421183261 e:\program files\programmation\sdl\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1325789594 e:\program files\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1421171960 e:\program files\programmation\sdl\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421183312 .h>
+
+1376152838 e:\program files\sdl-1.2.15\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1420989977 e:\program files\programmation\sdl\test_asc\ecran.h
+	<SDL/SDL.h>
+
+1420989977 >
+
+1421171960 e:\program files\programmation\sdl\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1421171960 e:\program files\programmation\sdl\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421172025 e:\program files\programmation\sdl\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421171960 e:\program files\programmation\sdl\test_asc\constante.h
+
+1421172054 e:\program files\programmation\sdl\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421171960 e:\program files\programmation\sdl\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421184542 source:e:\program files\programmation\sdl\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421183311 e:\program files\programmation\sdl\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\ascenseur.cpp
+	"ascenseur.h"
+
+1421171982 e:\nouveau dossier\files\programmation\sdl\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421183261 e:\nouveau dossier\files\programmation\sdl\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421171960 e:\nouveau dossier\files\programmation\sdl\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421171960 e:\nouveau dossier\files\programmation\sdl\test_asc\constante.h
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421184866 source:e:\nouveau dossier\files\programmation\sdl\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421183311 e:\nouveau dossier\files\programmation\sdl\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421171960 e:\nouveau dossier\files\programmation\sdl\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1421171960 e:\nouveau dossier\files\programmation\sdl\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421172025 e:\nouveau dossier\files\programmation\sdl\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421172054 e:\nouveau dossier\files\programmation\sdl\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421183261 source:e:\nouveau dossier\files\programmation\sdl\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421171960 e:\nouveau dossier\files\programmation\sdl\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\personne.cpp
+	"personne.h"
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421171960 source:e:\nouveau dossier\files\programmation\sdl\test_asc\porte.cpp
+	"porte.h"
+
+1421183261 source:e:\nouveau dossier\files\programmation\sdl\test_asc\temporisateur.cpp
+	"temporisateur.h"
+
+1421171962 source:d:\test_asc\ascenseur.cpp
+	"ascenseur.h"
+
+1481295462 d:\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421183262 d:\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421171962 d:\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421171962 d:\test_asc\constante.h
+
+1421171962 source:d:\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421184868 source:d:\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421183312 d:\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421171962 source:d:\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421171962 d:\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1421171962 d:\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421172026 d:\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421172056 d:\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421171962 source:d:\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421183262 source:d:\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421171962 d:\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421171962 source:d:\test_asc\personne.cpp
+	"personne.h"
+
+1421171962 source:d:\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421171962 source:d:\test_asc\porte.cpp
+	"porte.h"
+
+1421183262 source:d:\test_asc\temporisateur.cpp
+	"temporisateur.h"
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/ascenseur.cpp
+	"ascenseur.h"
+
+1421171984 /media/aubert/SAUVEGARDE/Test_asc/ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421183262 /media/aubert/SAUVEGARDE/Test_asc/temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421171962 /media/aubert/SAUVEGARDE/Test_asc/cloche.h
+	<fmod/fmod.h>
+
+1421171962 /media/aubert/SAUVEGARDE/Test_asc/Constante.h
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421184868 source:/media/aubert/SAUVEGARDE/Test_asc/Fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421183312 /media/aubert/SAUVEGARDE/Test_asc/Fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/immeuble.cpp
+	"immeuble.h"
+
+1421171962 /media/aubert/SAUVEGARDE/Test_asc/immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1421171962 /media/aubert/SAUVEGARDE/Test_asc/porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421172026 /media/aubert/SAUVEGARDE/Test_asc/personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421172056 /media/aubert/SAUVEGARDE/Test_asc/lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/lumiere.cpp
+	"lumiere.h"
+
+1421183262 source:/media/aubert/SAUVEGARDE/Test_asc/main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421171962 /media/aubert/SAUVEGARDE/Test_asc/planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/personne.cpp
+	"personne.h"
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/planificateur.cpp
+	"planificateur.h"
+
+1421171962 source:/media/aubert/SAUVEGARDE/Test_asc/porte.cpp
+	"porte.h"
+
+1421183262 source:/media/aubert/SAUVEGARDE/Test_asc/temporisateur.cpp
+	"temporisateur.h"
+
+1421171962 source:g:\mes projets\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421171962 g:\mes projets\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421184868 source:g:\mes projets\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421183312 g:\mes projets\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421171962 source:g:\mes projets\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421171962 g:\mes projets\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1481295462 g:\mes projets\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421183262 g:\mes projets\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421171962 g:\mes projets\test_asc\constante.h
+
+1421171962 g:\mes projets\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421172026 g:\mes projets\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421172056 g:\mes projets\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421171962 source:g:\mes projets\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421183262 source:g:\mes projets\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421171962 g:\mes projets\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421171962 source:g:\mes projets\test_asc\personne.cpp
+	"personne.h"
+
+1421171962 source:g:\mes projets\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421171962 source:g:\mes projets\test_asc\porte.cpp
+	"porte.h"
+
+1421183262 source:g:\mes projets\test_asc\temporisateur.cpp
+	"temporisateur.h"
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421175562 g:\aubert\mes cours\mes projets\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421188468 source:g:\aubert\mes cours\mes projets\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421186912 g:\aubert\mes cours\mes projets\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421175562 g:\aubert\mes cours\mes projets\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1481299062 g:\aubert\mes cours\mes projets\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421186862 g:\aubert\mes cours\mes projets\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421175562 g:\aubert\mes cours\mes projets\test_asc\constante.h
+
+1421175562 g:\aubert\mes cours\mes projets\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421175626 g:\aubert\mes cours\mes projets\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421175656 g:\aubert\mes cours\mes projets\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421186862 source:g:\aubert\mes cours\mes projets\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421175562 g:\aubert\mes cours\mes projets\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\personne.cpp
+	"personne.h"
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421175562 source:g:\aubert\mes cours\mes projets\test_asc\porte.cpp
+	"porte.h"
+
+1421186862 source:g:\aubert\mes cours\mes projets\test_asc\temporisateur.cpp
+	"temporisateur.h"
+
+1421175562 source:c:\users\aubert\documents\test_asc\cloche.cpp
+	"cloche.h"
+	<stdlib.h>
+
+1421175562 c:\users\aubert\documents\test_asc\cloche.h
+	<fmod/fmod.h>
+
+1421188468 source:c:\users\aubert\documents\test_asc\fenetre.cpp
+	<SDL/SDL_image.h>
+	"Fenetre.h"
+
+1421186912 c:\users\aubert\documents\test_asc\fenetre.h
+	<SDL/SDL.h>
+	<fmod/fmod.h>
+
+1421175562 source:c:\users\aubert\documents\test_asc\immeuble.cpp
+	"immeuble.h"
+
+1421175562 c:\users\aubert\documents\test_asc\immeuble.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"ascenseur.h"
+	"porte.h"
+	"personne.h"
+	"lumiere.h"
+	"cloche.h"
+	"Constante.h"
+
+1481299062 c:\users\aubert\documents\test_asc\ascenseur.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421186862 c:\users\aubert\documents\test_asc\temporisateur.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	"cloche.h"
+	"Constante.h"
+
+1421175562 c:\users\aubert\documents\test_asc\constante.h
+
+1421175562 c:\users\aubert\documents\test_asc\porte.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+
+1421175626 c:\users\aubert\documents\test_asc\personne.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<string>
+
+1421175656 c:\users\aubert\documents\test_asc\lumiere.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"temporisateur.h"
+	"Constante.h"
+	<iostream>
+
+1421175562 source:c:\users\aubert\documents\test_asc\lumiere.cpp
+	"lumiere.h"
+
+1421186862 source:c:\users\aubert\documents\test_asc\main.cpp
+	"Fenetre.h"
+	"planificateur.h"
+
+1421175562 c:\users\aubert\documents\test_asc\planificateur.h
+	<SDL/SDL.h>
+	"immeuble.h"
+	"personne.h"
+	"temporisateur.h"
+	"Constante.h"
+	<time.h>
+
+1421175562 source:c:\users\aubert\documents\test_asc\personne.cpp
+	"personne.h"
+
+1421175562 source:c:\users\aubert\documents\test_asc\planificateur.cpp
+	"planificateur.h"
+
+1421175562 source:c:\users\aubert\documents\test_asc\porte.cpp
+	"porte.h"
+
+1421186862 source:c:\users\aubert\documents\test_asc\temporisateur.cpp
+	"temporisateur.h"
+

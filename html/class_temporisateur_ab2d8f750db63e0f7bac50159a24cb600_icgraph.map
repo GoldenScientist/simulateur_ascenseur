@@ -1,0 +1,6 @@
+<map id="AfficherTemps" name="AfficherTemps">
+<area shape="rect" id="node2" href="$class_immeuble.html#a554767a6b98acf2be12e795c9dc230e4" title="Immeuble::AfficherHeure" alt="" coords="157,5,320,32"/>
+<area shape="rect" id="node5" href="$class_immeuble.html#a56f2e61e76cbf5060d3ee31906ca6601" title="Immeuble::Afficher" alt="" coords="174,56,303,83"/>
+<area shape="rect" id="node3" href="$class_planificateur.html#a3806e788c7800e473b1ee47be3d1d97b" title="Planificateur::Planifier" alt="" coords="368,31,515,57"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="563,31,613,57"/>
+</map>

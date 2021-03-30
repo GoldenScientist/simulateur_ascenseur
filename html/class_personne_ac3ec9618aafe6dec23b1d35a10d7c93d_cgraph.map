@@ -1,0 +1,5 @@
+<map id="Partir" name="Partir">
+<area shape="rect" id="node2" href="$class_personne.html#aa1c3b3cc4e4771ddc0c5d78e0ab8506e" title="Marcher" alt="" coords="114,5,183,32"/>
+<area shape="rect" id="node4" href="$class_personne.html#aafeec4ffb7a8b8094380dc7ba4bfbf26" title="Disparaitre" alt="" coords="107,56,191,83"/>
+<area shape="rect" id="node3" href="$class_temporisateur.html#a6f90b1eefd7ec3346e89617a1d58b87f" title="Temporisateur::Chrono" alt="" coords="239,5,392,32"/>
+</map>

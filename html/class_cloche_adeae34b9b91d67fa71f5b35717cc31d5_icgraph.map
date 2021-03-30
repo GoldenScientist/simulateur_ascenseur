@@ -1,0 +1,7 @@
+<map id="Tic" name="Tic">
+<area shape="rect" id="node2" href="$class_temporisateur.html#ab2d8f750db63e0f7bac50159a24cb600" title="Temporisateur::AfficherTemps" alt="" coords="92,31,287,57"/>
+<area shape="rect" id="node3" href="$class_immeuble.html#a554767a6b98acf2be12e795c9dc230e4" title="Immeuble::AfficherHeure" alt="" coords="335,5,497,32"/>
+<area shape="rect" id="node6" href="$class_immeuble.html#a56f2e61e76cbf5060d3ee31906ca6601" title="Immeuble::Afficher" alt="" coords="351,56,481,83"/>
+<area shape="rect" id="node4" href="$class_planificateur.html#a3806e788c7800e473b1ee47be3d1d97b" title="Planificateur::Planifier" alt="" coords="545,31,692,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="740,31,791,57"/>
+</map>
